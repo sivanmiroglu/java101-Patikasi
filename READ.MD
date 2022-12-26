@@ -1,0 +1,1 @@
+Readme kısmını proje bitiminde dolduracağım :)
