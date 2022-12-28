@@ -20,7 +20,7 @@ public class kdvTutariHesaplama {
          kdvTutar =tutar * kdvOran;
          kdvliTutar = tutar + kdvTutar;
 
-         
+
         System.out.println("KDV'siz Tutar : " + tutar);
         System.out.println("KDV Oranı : " + kdvOran);
         System.out.println("KDV Tutarı : " + kdvTutar);
