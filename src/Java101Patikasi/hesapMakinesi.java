@@ -17,20 +17,20 @@ public class hesapMakinesi {
 
         System.out.println("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme");
         System.out.print("Seçiminiz : ");
-        select=input.nextInt();
+        select = input.nextInt();
 
-        switch (select){
+        switch (select) {
             case 1:
-                System.out.print("Toplam : " + (n1+n2));
+                System.out.print("Toplam : " + (n1 + n2));
                 break;
             case 2:
-                System.out.print("Kalan : " + (n1-n2));
+                System.out.print("Kalan : " + (n1 - n2));
                 break;
             case 3:
-                System.out.print("Çarpım :"+ (n1*n2));
+                System.out.print("Çarpım :" + (n1 * n2));
                 break;
             case 4:
-                System.out.print("Bölme :"+ (n1/n2));
+                System.out.print("Bölme :" + (n1 / n2));
                 break;
             default:
                 System.out.println("Hatalı İşlem ");
