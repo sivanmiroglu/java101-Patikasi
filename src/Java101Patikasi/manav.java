@@ -13,7 +13,7 @@ public class manav {
         Domates : 1,11 TL
         Muz: 0,95 TL
         Patlıcan : 5,00 TL*/
-        
+
         Double armut = 2.14, elma = 3.67, domates = 1.11, muz = 0.95, toplam;
         int patlican = 5;
 
