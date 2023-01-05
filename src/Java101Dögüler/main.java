@@ -23,7 +23,7 @@ public class main {
         while(++left < --right);
         System.out.println("100 ile 200 ün ortası : " + left);*/
 
-        // Kullanıcı Şifreyi Doğru girene kadar döngü program şifre istemeye devam edicek :
+        // Kullanıcı Şifreyi Doğru girene kadar  program şifre istemeye devam edicek :
         Scanner input = new Scanner(System.in);
         int password;
         boolean passwordSuccessfull = false;
