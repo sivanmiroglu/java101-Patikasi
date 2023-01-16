@@ -12,6 +12,7 @@ public class main {
         int case2=power(2,4);
         System.out.println(case2);
     }
+
     static int power(int base , int exp){
         int result =1;
         for(int i=1;i<=exp;i++){
@@ -23,8 +24,8 @@ public class main {
     //static int run(int x) {
         //x = 10;
         //return x;
-    }
-//}
+    //}
+}
 
 
 
