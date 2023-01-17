@@ -21,6 +21,11 @@ public class Polindrom {
 
     public static void main(String[] args) {
         System.out.println(isPalindrom(101));
+
+        int sayi = 2749;
+        int b = sayi  / 10; // tanımladığımız sayının son basamğını siler.
+       // int b = sayi % 10; // tanımladığımız sayının son basamğını ekrana yazar.
+        System.out.println(b);
     }
 
 }
