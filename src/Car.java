@@ -3,26 +3,8 @@ class Car {
     String type = "sedan";
     String model = "TEST";
     String color = "Beyaz";
-    int speed;
+    int speed =100;
     int speedLimit = 180;
-
-
-    // Construcator Method --
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     // arabayı modelledik , hızını artırmasını azaltmasını belirledik ve bu sınıfa istediğinmiz kadar nesne üretebiliriz.
 
     // Hız arttırma işlemi aslında bir modelleme yapıyoruz increase = artırma increment = artış artılıcak değer
